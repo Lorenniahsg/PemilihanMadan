@@ -15,7 +15,7 @@
   <button class="tablinks" onclick="openCity(event, 'Kriteria')">Data Kriteria</button>
   <button class="tablinks" onclick="openCity(event, 'Mahasiswa')">Data Mahasiswa</button>
   <button class="tablinks" onclick="openCity(event, 'Penilaian')">Data Penilaian</button>
-  <button class="tablinks" onclick="openCity(event, 'Perhitungan')">Data Perhitungan</button>
+  <button class="tablinks" onclick="openCity(event, 'Perhitungan')">Data alu</button>
 </div>
 
 <!-- Tab content -->
